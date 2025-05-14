@@ -92,3 +92,8 @@ export default function LoginPage() {
     </AuthFormContainer>
   )
 }
+
+// This is a client component
+// It is used to handle the login form submission and state management
+// It uses the useState hook to manage the form state
+// It uses the useEffect hook to handle side effects
